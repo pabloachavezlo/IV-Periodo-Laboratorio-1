@@ -53,6 +53,7 @@
     padding: 1rem 2rem;
     border-radius: 3rem;
     margin-top: 2rem;
+    box-shadow: -2px -1px 47px -5px rgba(255,113,118,1);
 
     display: flex;
     justify-content: center;
