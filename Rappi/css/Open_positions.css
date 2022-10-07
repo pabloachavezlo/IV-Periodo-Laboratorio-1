@@ -1,0 +1,16 @@
+.Open_positions{
+    height: 30rem;
+    padding: 2rem;
+    background-color: var(--color1);
+}
+.Open_positions .etiqueta{
+    color: var(--color4);
+}
+.Open_positions h2{
+    color: var(--color4);
+    font-size: 4rem;
+    margin-top: 5rem;
+}
+.Open_positions p{
+    font-size: 1.6rem;
+}
